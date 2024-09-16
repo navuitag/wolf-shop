@@ -16,6 +16,7 @@ return [
     'commands' => [
         // App\Console\Commands\ExampleCommand::class,
         App\Console\Commands\ImportItems::class,
+        App\Console\Commands\UpdateItemsQuality::class,
     ],
 
     /*
